@@ -1,5 +1,5 @@
 # Text Animation
-
+## [Live Site](https://zahra-portfolio.netlify.app/)
 ## Tools Utilized:
 I utilized HTML, CSS and JS.I used Visual Studio as a text editor.
 
